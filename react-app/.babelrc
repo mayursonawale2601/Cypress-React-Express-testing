@@ -1,0 +1,14 @@
+{
+//   // "presets": ["@babel/preset-react"],
+  "plugins": ["@babel/transform-class-properties", "istanbul"]
+}
+
+// {
+//   "env": {
+//     "test": {
+//       "plugins": ["transform-class-properties", "istanbul" ]
+//     }
+//   }
+// }
+
+
